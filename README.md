@@ -15,7 +15,7 @@
 
 ## 🚀 Current Project
 
-* 🧠 **[AILearningMCP](https://github.com/ArnaudDeploiement/AILearningMCP)** - An MCP server that turns any AI agent into a persistent, adaptive tutor. Tracks learner progress with Bayesian Knowledge Tracing, sequences content intelligently, and closes the feedback loop autonomously.  
+* 🧠 **[AILearningMCP](https://github.com/ArnaudDeploiement/AILearningMCP)** - An MCP server that turns any AI agent into a persistent, adaptive tutor. Tracks learner progress with Bayesian Knowledge Tracing, sequences content intelligently, and closes the feedback loop autonomously. <i>I use it myself to reinforce my knowledge in programming languages, philosophy, and system design</i> 
   *Built in Go · Designed for Claude & Codex agents*
 
 ---
