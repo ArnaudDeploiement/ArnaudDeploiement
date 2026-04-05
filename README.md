@@ -1,6 +1,6 @@
 # Hi, I'm Arnaud 👋
 
-📍 **Paris** | 🤖 **AI-native builder** | 🎓 **Learning Systems Architect**
+📍 **Paris** & **Normandy** | 🤖 **AI Product builder** | 🎓 **Learning Systems Architect**
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
