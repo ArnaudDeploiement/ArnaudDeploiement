@@ -24,13 +24,13 @@
 
 Education has always been gated, by geography, money, time, or access to the right teacher. AI breaks that gate.
 
-My work is focused on one question: **what does it look like when a learner has a tireless, infinitely patient, perfectly adaptive tutor available 24/7?**
+My work is focused on one question: **what if anyone could learn anything, on their own, and actually succeed?**
 
-Not a chatbot. Not a quiz generator. A genuine learning system, one that knows where you are, where you need to go, and how to get you there.
+Not a chatbot. Not a quiz generator. A genuine learning system — one that knows where you are, where you need to go, and how to get you there.
 
-* **AI-native, not AI-enhanced** : built from scratch around LLMs as the core reasoning layer
-* **Self-directed learning** : the system adapts to the learner, not the other way around
-* **Open and accessible** : because the ability to learn shouldn't depend on where you were born
+* **LLM at the core, not on top** — I don't add AI to existing products. I build entirely new systems where the LLM *is* the architecture, from day one
+* **A system that truly understands the learner** — not just tracking progress, but modeling how someone thinks, where they struggle, and what they need next
+* **Self-learning for everyone** — the dream of learning anything, by yourself, at your own pace, is finally within reach. That's what I'm building toward
 
 ---
 
