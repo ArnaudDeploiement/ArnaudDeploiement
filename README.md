@@ -15,9 +15,7 @@
 
 ## 🚀 Current Project
 
-* 🧠 **[AILearningMCP](https://github.com/ArnaudDeploiement/AILearningMCP)** - An MCP server that turns any AI agent into a persistent, adaptive tutor. Four cognitive algorithms (BKT, FSRS, IRT, PFA) track mastery in real time, while a
-  metacognitive loop monitors autonomy, calibration, and affect to make the system progressively unnecessary. 19 MCP tools, 9 alert types, Discord webhooks, and a mirror that shows
-  learners their own patterns without judging. <br>
+* 🧠 **[AILearningMCP](https://github.com/ArnaudDeploiement/AILearningMCP)** - An MCP server that turns any AI agent into a smart, persistent tutor. Four cognitive algorithms (BKT, FSRS, IRT, PFA) continuously measure learner progress. A metacognitive loop goes further by teaching learners how to learn, observing their self-assessment accuracy, autonomy, and dependency patterns until learning itself becomes a mastered skill. 19 MCP tools, 9 alert types, Discord integration. <br>
   *Built in Go · Designed for Claude & Codex agents · I use it daily to learn Go, philosophy, and system design.*
 
 ---
