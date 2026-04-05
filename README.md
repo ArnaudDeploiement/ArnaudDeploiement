@@ -8,8 +8,8 @@
 [![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
 [![MCP](https://img.shields.io/badge/-MCP-FF6B35?style=flat-square&logoColor=white)]()
 
-> I believe everyone deserves to learn anything, at their own pace, on their own terms.  
-> I build AI-native systems that make self-directed learning actually possible — no classroom required.
+> Self-learning is a superpower. 
+> AI is the key to unlocking it for everyone, and I'm trying to build the tools to make it real.
 
 ---
 
