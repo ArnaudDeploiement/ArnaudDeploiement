@@ -48,9 +48,9 @@ My work is focused on one question: **what if anyone could learn anything, on th
 <details>
 <summary>⚡ A few things about me</summary>
 
-- I think learning is the most underrated superpower — and AI is about to make it universally accessible
-- My stack: Go for the backend, React for the UI, Claude Code + Codex for everything else
-- I design systems where the AI *is* the pedagogy engine, not a feature on top of it
-- Convinced that in 10 years, the best teachers will be agents
+- I think self-learning is the most important superpower, and AI is about to make it universally accessible,
+- I'm convinced that the best teachers are agents.
+- My stack: Go for the backend, React for the UI, Claude Code + Codex for everything else,
+- I design systems where the AI *is* the pedagogy engine, not a feature on top of it.
 
 </details>
