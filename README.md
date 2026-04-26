@@ -34,7 +34,7 @@ My work is focused on one question: **what if anyone could learn anything, on th
 
 ## 📊 GitHub Activity
 
-[![GitHub Contribution Graph](https://ghchart.rshah.org/ArnaudDeploiement)](https://github.com/ArnaudDeploiement)
+[![GitHub Contribution Graph](https://ghchart.rshah.org/ArnaudGuiovanna)](https://github.com/ArnaudGuiovanna)
 
 ---
 
