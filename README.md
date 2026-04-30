@@ -15,8 +15,10 @@
 
 ## 🚀 Current Project
 
-* 🧠 **[Learning Runtime](https://github.com/ArnaudGuiovanna/learning-runtime)** - An MCP server that turns any AI agent into a smart, persistent tutor. Four cognitive algorithms (BKT, FSRS, IRT, PFA) continuously measure learner progress. A metacognitive loop goes further by teaching learners how to learn, observing their self-assessment accuracy, autonomy, and dependency patterns until learning itself becomes a mastered skill. 19 MCP tools, 9 alert types, Discord integration. <br>
-  *Built in Go · Designed for all AI Providers (OpenAI, Anthropic, Mistral, Google) · I use it daily to learn Go, philosophy, and system design.*
+* 🧠 **[Learning Runtime](https://github.com/ArnaudGuiovanna/learning-runtime)**
+* <p align="center">
+  <img src="docs/banner.svg" alt="learning/runtime — Self-learning is a superpower." width="100%" />
+</p>
 
 ---
 
