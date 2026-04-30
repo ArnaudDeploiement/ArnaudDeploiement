@@ -15,9 +15,9 @@
 
 ## 🚀 Current Project
 
-* 🧠 **[Learning Runtime](https://github.com/ArnaudGuiovanna/learning-runtime)**
-* <p align="center">
-  <img src="docs/banner.svg" alt="learning/runtime — Self-learning is a superpower." width="100%" />
+🧠 **[Learning Runtime](https://github.com/ArnaudGuiovanna/learning-runtime)**
+ <p align="center">
+  <img src="https://github.com/ArnaudGuiovanna/learning-runtime/docs/banner.svg" alt="learning/runtime — Self-learning is a superpower." width="100%" />
 </p>
 
 ---
